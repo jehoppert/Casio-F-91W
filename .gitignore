@@ -30,5 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Project files
 main
 main.dSYM
+.DS_Store
